@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+venv/
+callmemaybe/
+
+# Ignorar archivos compilados de Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar configuraciones locales
+*.env
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales de sistema
+.DS_Store
+Thumbs.db
